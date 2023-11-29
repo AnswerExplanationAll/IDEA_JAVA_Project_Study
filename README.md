@@ -1,0 +1,2 @@
+# IDEA_JAVA_Project_Study
+初始学习在IDEA上学习java上的代码，仅个人使用
